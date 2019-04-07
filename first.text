@@ -4,3 +4,4 @@ git add
 git commit
 これも変更
 ・git status
+・git diff
